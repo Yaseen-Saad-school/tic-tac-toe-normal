@@ -1,27 +1,33 @@
-# UNO Game for High Seas
 
-This is a simple Uno game where you can compete against a bot. It follows the classic Uno rules.
+# Tic-Tac-Toe Game
 
-### Game Flow:
-- Start by clicking "Start Game" to receive 7 cards.
-- Play cards that match the color or number of the current card.
-- Special cards let you change colors or force the opponent to draw.
-- Draw a card if you can't play one.
-- The game ends when a player runs out of cards.
+A simple Tic-Tac-Toe game using HTML, CSS, and JavaScript.
 
-### How to Play:
-1. Click "Start Game."
-2. Play cards matching the top card or draw one if you're stuck.
-3. Win by getting rid of all your cards first!
+## Features
 
-### Getting Started:
-- Clone or download the project.
-- Open `index.html` in a browser to begin.
+- **Two-Player Mode**: Alternates turns between "X" and "O".
+- **Win & Draw Detection**: Identifies game outcomes and displays results.
+- **Animated Feedback**: Cell shake animation for invalid moves.
 
-### Feature Plans:
-- **Online Multiplayer**: The game will eventually allow players to compete against others online.
-- **Leaderboard**: A system to track and display player rankings based on wins.
-- **User Accounts**: Create accounts to save progress and stats.
-- **Chat Feature**: Communicate with other players during games.
+## Installation
 
-Stay tuned for these exciting updates!
+1. Clone the repository.
+2. Open `index.html` in a web browser to start the game.
+
+## Files
+
+- `index.html`: Game structure.
+- `style.css`: Styling and animations.
+- `main.js`: Game logic.
+
+## Usage
+
+1. Start with "X"'s turn.
+2. Click a cell to mark it.
+3. Results display upon win or draw.
+
+
+
+
+
+
